@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Fay and I'm a Data science undergrad from india</h2>
+<h2 align="left">Hi 👋! My name is Fay and I'm a Data science undergrad </h2>
 
 ###
 
