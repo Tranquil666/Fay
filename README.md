@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/syed-faisal-haque-367239180/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-faisal-haque" height="30" width="40" /></a>
 <a href="https://instagram.com/thelasthaque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thelasthaque" height="30" width="40" /></a>
-<a href="https://instagram.com/thelasthaque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+<a href="https://leetcode.com/u/ibfMlBJDJs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
 
